@@ -9,6 +9,9 @@ Temas abordados
 * Encriptação simétrica e assimétrica
 * Tokens JWT
 * Implmentação do token JWT em Node
+* Ataques Rainbow Table, Força Bruta e Dicionário
+* Algoritmos criptográficos
+
 
 Links
 
@@ -21,5 +24,5 @@ Links
 * [Token JWT](https://jwt.io/introduction)
 * [Tokens que utilizam criptgrafia](https://www.brunobrito.net.br/jose-jwt-jws-jwe-jwa-jwk-jwks/)
 * [Utilizando cookie httpOnly para armazenar tokens JWT](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies#cookies_secure_e_httponly)
-* []()
+* [Tipos de Autenticação](https://www.alura.com.br/artigos/tipos-de-autenticacao)
 * []()
