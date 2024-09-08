@@ -11,7 +11,8 @@ Temas abordados
 * Implmentação do token JWT em Node
 * Ataques Rainbow Table, Força Bruta e Dicionário
 * Algoritmos criptográficos
-
+* Como escolher requisitos de forma crítica e ponderar sobre as decisões de segurança;
+* Os cuidados que devemos tomar com as dependências que utilizamos e tentar conhecer os riscos associados.
 
 Links
 
@@ -25,4 +26,5 @@ Links
 * [Tokens que utilizam criptgrafia](https://www.brunobrito.net.br/jose-jwt-jws-jwe-jwa-jwk-jwks/)
 * [Utilizando cookie httpOnly para armazenar tokens JWT](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies#cookies_secure_e_httponly)
 * [Tipos de Autenticação](https://www.alura.com.br/artigos/tipos-de-autenticacao)
-* []()
+* [Palestra - Engenharia Social](https://www.youtube.com/watch?v=SHiaVrIZD2w)
+* [Palestra - I'll Let Myself In: Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=rnmcRTnTNC8)
